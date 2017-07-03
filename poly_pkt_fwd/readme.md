@@ -4,7 +4,7 @@
 	 _____) ) ____| | | || |_| ____( (___| | | |
 	(______/|_____)_|_|_| \__)_____)\____)_| |_|
 	  (C)2013 Semtech-Cycleo
-	  (C)2015 Modfications by Ruud Vlaming (The Things Network)
+	  
 
 Lora Gateway packet forwarder with multiple extensions
 ======================================================

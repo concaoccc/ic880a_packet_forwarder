@@ -1,4 +1,4 @@
-The Things Network packet forwarder
+ResIOT packet forwarder
 ====================================
 
 Forked from Semtech''s Lora network packet forwarder project. See original description below.
